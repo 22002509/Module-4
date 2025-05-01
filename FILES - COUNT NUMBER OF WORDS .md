@@ -20,7 +20,8 @@ To write a Python program to read a file and count the number of words in it.
 ### PROGRAM
 
 ```
-
+#Reg.NO:212222040120
+#Name:PRASANNA R
 def create_file(file_path, file_content):
     with open(file_path,"w") as file:
         file.write(file_content)
